@@ -1,0 +1,22 @@
+{
+  "name": "backendchart",
+  "version": "1.0.0",
+  "description": "team demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PGana/BackendChart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PGana/BackendChart/issues"
+  },
+  "homepage": "https://github.com/PGana/BackendChart#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
