@@ -19,7 +19,8 @@ app.get('/getMeg', (req, res) =>{
         {"name":'xyz', message:'I am fine'},
         {"name":'Gana', message:'How are you'},
         {"name":'Sures', message:'Good'},
-        {"name":'HHH', message:'where are you'}
+        {"name":'HHH', message:'where are you'},
+        {"name":'PPP', message:'where are you'}
     ]
     res.status(200).send({success:true, message:jsonData});
 })
