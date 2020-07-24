@@ -20,7 +20,8 @@ app.get('/getMeg', (req, res) =>{
         {"name":'Gana', message:'How are you'},
         {"name":'Sures', message:'Good'},
         {"name":'HHH', message:'where are you'},
-        {"name":'PPP', message:'where are you'}
+        {"name":'PPP', message:'where are you'},
+        {"name":'Rooba', message:'HI'}
     ]
     res.status(200).send({success:true, message:jsonData});
 })
